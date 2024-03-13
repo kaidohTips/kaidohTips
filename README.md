@@ -21,7 +21,6 @@
 - :computer: I am a competitive `TryHackMe User` (top 1%).
 - :student: I’m currently learning `CyberSecurity` and `DevSysOps`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/kaidohWebsite).
 <br>
 
 
